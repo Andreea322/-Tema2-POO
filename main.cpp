@@ -34,12 +34,6 @@ int main() {
     catalog.adaugaBiblioteca(litere);
     catalog.adaugaBiblioteca(istorie);
 
-    std::ifstream fin("carti.txt");
-    if (!fin) {
-        std::cout << "Eroare la deschiderea fisierului!\n";
-        return 1;
-    }
-
     std::string tip, nume, autor;
     int an;
 
