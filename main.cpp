@@ -6,6 +6,7 @@
 #include "client.h"
 #include "exceptii.h"
 #include "carte.h"
+#include "bibliotecaIstorie.h"
 #include <fstream>
 
 std::string stergere_(const std::string& text) {
@@ -26,10 +27,12 @@ int main() {
     Biblioteca* fmi = new BibliotecaFMI("FMI", "Bucuresti");
     Biblioteca* drept = new BibliotecaDrept("Drept", "Bucuresti");
     Biblioteca* litere = new BibliotecaLitere("Litere", "Bucuresti");
+    Biblioteca* istorie = new BibliotecaIstorie("Istorie", "Bucuresti");
 
     catalog.adaugaBiblioteca(fmi);
     catalog.adaugaBiblioteca(drept);
     catalog.adaugaBiblioteca(litere);
+    catalog.adaugaBiblioteca(istorie);
 
     std::ifstream fin("carti.txt");
     if (!fin) {
