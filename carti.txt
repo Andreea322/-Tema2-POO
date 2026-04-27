@@ -1,0 +1,17 @@
+FMI Introduction_to_Algorithms Thomas_Cormen 2009
+FMI Clean_Code Robert_Martin 2008
+FMI The_C_Programming_Language Brian_Kernighan 1988
+FMI Design_Patterns Erich_Gamma 1994
+FMI Artificial_Intelligence Stuart_Russell 2010
+
+Drept Drept_Civil_roman Ion_Dogaru 2013
+Drept Drept_Penal_general Vintila_Dongoroz 1971
+Drept Constitutia_Romaniei Parlamentul_Romaniei 1991
+Drept Dreptul_Familiei Ioan_Albu 2015
+Drept Procedura_Civila Viorel_Mihai_Ciobanu 2016
+
+Litere Morometii Marin_Preda 1955
+Litere Ion Liviu_Rebreanu 1920
+Litere Enigma_Otiliei George_Calinescu 1938
+Litere Baltagul Mihail_Sadoveanu 1930
+Litere Luceafarul Mihai_Eminescu 1883
